@@ -1,0 +1,11 @@
+name = "avisjeuxplinko-fr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=avisjeuxplinko.fr"
+HMAC_KEY = "e64663b19bdaf40511a58da76dc095db8e839880e3602be7260e4703a7713c06"
+COOKIE_NAME = "64z"
+PLAY_PATH = "play-now"
+BUTTON_ID = "p773f281f906342d03f78f87a293b58b7"
+GATE_SALT = "8a7b045b1f7aad39"
